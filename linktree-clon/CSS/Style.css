@@ -1,0 +1,114 @@
+body {
+    background: rgb(228,6,111);
+    background: rgb(228,6,111);
+    background: rgb(228,6,111);
+    background: linear-gradient(90deg, rgba(228,6,111,1) 0%, rgba(132,9,104,1) 42%, rgba(121,9,103,1) 45%, rgba(0,239,255,1) 100%);    /* background-color: rgb(221, 15, 128); */
+    /* font-family: Arial, Helvetica, sans-serif; */
+
+    }
+    a{
+        text-decoration: none;
+        text-align: center
+    }
+    main {
+        /* background-color: rgb(8, 216, 216); */
+            width: 450px;
+            max-width: 90%;
+            margin: 50px auto;
+            
+            
+    }
+
+    .profile {
+        display: inline-block;
+        margin-left: calc(50% - 75px);
+        text-align: center;
+    }
+    .profile img {
+        border-radius: 50%;
+        width: 150px;
+        height: 150px;
+        object-fit: cover;
+    }
+    .profile {
+        font-size: 20px;
+        font-weight: 600;
+        color: rgb(255,255,255);
+    }
+
+    .link-box {
+        background-color: azure;
+        text-align: center;
+        border-radius: 30px;
+        padding: 5px 0;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+    }
+    .link-box:hover {
+        background-color: rgb(214, 220, 221);
+        transform: scale(0.95);
+        transition: 0.3s;
+    }
+    .Social-Box {
+        text-align: center;
+    }
+    .Social-Box a {
+        margin: 0 13px;
+        
+    }
+    .Social-Box a span img {
+        width: 35px;
+        
+    }
+
+    .Social-box1 {
+        background-color: azure;
+        text-align: center;
+        border-radius: 30px;
+        padding: 5px 0;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+
+    }
+    .Social-box1:hover {
+        background-color: rgb(214, 220, 221);
+        transform: scale(0.95);
+        transition: 0.3s;
+    }
+    .Social-box2 {
+        background-color: azure;
+        text-align: center;
+        border-radius: 30px;
+        padding: 5px 0;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+
+    }
+    .Social-box2:hover {
+        background-color: rgb(214, 220, 221);
+        transform: scale(0.95);
+        transition: 0.3s;
+    }
+    .Social-box3 {
+        background-color: azure;
+        text-align: center;
+        border-radius: 30px;
+        padding: 5px 0;
+        margin-bottom: 30px;
+        -webkit-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+box-shadow: 18px 11px 39px -1px rgba(0,0,0,0.75);
+
+    }
+    .Social-box3:hover {
+        background-color: rgb(214, 220, 221);
+        transform: scale(0.95);
+        transition: 0.3s;
+    }
+    
